@@ -1,0 +1,112 @@
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\Projeto Framework.exe
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\Projeto Framework.deps.json
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\Projeto Framework.runtimeconfig.json
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\Projeto Framework.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\Projeto Framework.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\Projeto Framework.pdb
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\Projeto Framework.Views.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\Projeto Framework.Views.pdb
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\obj\Debug\netcoreapp3.1\Projeto Framework.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\obj\Debug\netcoreapp3.1\staticwebassets\Projeto Framework.StaticWebAssets.Manifest.cache
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\obj\Debug\netcoreapp3.1\staticwebassets\Projeto Framework.StaticWebAssets.xml
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\obj\Debug\netcoreapp3.1\Projeto Framework.RazorAssemblyInfo.cache
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\obj\Debug\netcoreapp3.1\Projeto Framework.RazorAssemblyInfo.cs
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\obj\Debug\netcoreapp3.1\Projeto Framework.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\obj\Debug\netcoreapp3.1\Projeto Framework.AssemblyInfo.cs
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\obj\Debug\netcoreapp3.1\Projeto Framework.TagHelpers.input.cache
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\obj\Debug\netcoreapp3.1\Projeto Framework.TagHelpers.output.cache
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\obj\Debug\netcoreapp3.1\Projeto Framework.RazorCoreGenerate.cache
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\obj\Debug\netcoreapp3.1\Projeto Framework.RazorTargetAssemblyInfo.cache
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\obj\Debug\netcoreapp3.1\Projeto Framework.RazorTargetAssemblyInfo.cs
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\obj\Debug\netcoreapp3.1\Projeto Framework.Views.pdb
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\obj\Debug\netcoreapp3.1\Projeto Framework.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\obj\Debug\netcoreapp3.1\Projeto Framework.pdb
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\obj\Debug\netcoreapp3.1\Projeto Framework.csproj.CopyComplete
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\obj\Debug\netcoreapp3.1\Razor\Views\Postagem\Index.cshtml.g.cs
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\obj\Debug\netcoreapp3.1\Projeto Framework.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\obj\Debug\netcoreapp3.1\Razor\Views\Album\Index.cshtml.g.cs
+C:\Users\gabri\source\repos\Projeto Framework\Projeto Framework\obj\Debug\netcoreapp3.1\Razor\Views\Todos\Index.cshtml.g.cs

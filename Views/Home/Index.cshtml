@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+    <div class="text-center">
+        <h1 class="display-4">Bem vindo !!! </h1>
+        <h1 class="display-4">Escolha abaixo a opção desejada: </h1>
+
+
+    </div>
+
+
+
+    <center>
+        <div class="row" style="margin-top:8%;">
+            <div class="col-md-4">
+                <h4>•   Ver postagens disponiveis</h4>
+                <a class="btn btn-primary" asp-action="Index" asp-controller="Postagem">Acessar</a>
+            </div>
+            <div class="col-md-4">
+                <h4>•   Ver albuns disponiveis</h4>
+                <a class="btn btn-primary" asp-action="Index" asp-controller="Album">Acessar</a>
+            </div>
+            <div class="col-md-4">
+                <h4>•   Ver todos disponiveis</h4>
+                <a class="btn btn-primary" asp-action="Index" asp-controller="Todos">Acessar</a>
+            </div>
+        </div>
+
+    </center>

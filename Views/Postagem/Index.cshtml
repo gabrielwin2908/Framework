@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Postagens</h1>
+
+
+<html>
+<head>
+    <style>
+        table {
+            margin-top:1%;
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        td, th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="" style="width:100%"> <a class="btn btn-primary" asp-action="Index" asp-controller="Home">Voltar</a></div>
+
+    <table>
+        <tr>
+            <th>Id do usuário</th>
+            <th>Número da postagem</th>
+            <th>Título</th>
+            <th>Conteúdo</th>
+        </tr>
+
+
+
+
+        @Html.Raw(ViewBag.projeto)
+    </table>
+
+</body>
+</html>
+
+
